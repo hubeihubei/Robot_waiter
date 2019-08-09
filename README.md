@@ -8,3 +8,10 @@ It is about face rocognization used cob_people_detection package, text to speech
 5.根据提示在终端按4
 6.播放音频文件参考http://wiki.ros.org/sound_play
 7.启动其他节点roslaunch sound_play test.launch
+
+## face detection result
+
+
+
+
+![](https://github.com/hubeihubei/Robot_waiter/blob/master/image/图片2.png)
